@@ -1,0 +1,33 @@
+_repo: Reminiscences-of-the-Civil-War_67854
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mitchel, Cora
+    gutenberg_agent_id: '54493'
+    url: http://www.gutenberg.org/2009/agents/54493
+description: ''
+gutenberg_issued: '2022-04-17'
+identifiers:
+  gutenberg: '67854'
+language: en
+pgterms:marc905: 20220212164525mitchel
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Thanks to Jude Eylander for the music, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: United States :Snow & Farnham Co.,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Refugees'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Women'
+- !lcsh 'Refugees -- Southern States'
+- !lcsh 'Apalachicola (Fla.) -- History -- Civil War, 1861-1865'
+- !lcsh 'Mitchel, Cora'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- GITenberg
+title: Reminiscences of the Civil War
+url: http://www.gutenberg.org/ebooks/67854
