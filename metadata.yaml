@@ -1,11 +1,16 @@
 _repo: Reminiscences-of-the-Civil-War_67854
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67854-h/images/cover.jpg
 creator:
   author:
     agent_name: Mitchel, Cora
     gutenberg_agent_id: '54493'
     url: http://www.gutenberg.org/2009/agents/54493
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67854#Reminiscences-of-the-Civil-War
 gutenberg_issued: '2022-04-17'
 identifiers:
   gutenberg: '67854'
